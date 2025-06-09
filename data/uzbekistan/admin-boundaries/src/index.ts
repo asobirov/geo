@@ -1,0 +1,1 @@
+export const name = 'uz-admin-boundaries';

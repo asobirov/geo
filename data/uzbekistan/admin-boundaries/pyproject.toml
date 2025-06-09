@@ -1,0 +1,15 @@
+[project]
+name = "uzbekistan-admin-boundaries"
+version = "0.1.0"
+description = "Processing Uzbekistan administrative boundaries"
+requires-python = ">=3.9"
+dependencies = [
+    "requests",
+    "geopandas",
+    "psycopg2-binary",
+    "jupyter",
+    "ipykernel",
+]
+
+[tool.uv]
+dev-dependencies = [] 
